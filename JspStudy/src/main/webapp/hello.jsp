@@ -13,9 +13,8 @@
    //document.write("str="+str)
    System.out.println("str="+str);//디버깅할때 사용
    out.println("<h1>"+str+"</h1>");//웹에서 출력
-   //<script>
-  // document.write("<h1>"+hello+"</h1>");
-  //</script>
 %>
+<hr>
+str의 값 출력=<%=str%>
 </body>
 </html>
